@@ -1,0 +1,8 @@
+{
+    "name": "허코딩",
+    "age": 26,
+    "sex": "Male",
+    "company": {
+      "name": "우리 집"
+    }
+}
